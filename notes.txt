@@ -6,3 +6,4 @@ git add
 git commit
 git branch
 git merge
+Feature update added
